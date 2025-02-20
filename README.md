@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-  User has created a ticket
+  The user has created a ticket.
   
 <img src="https://i.imgur.com/9TLEiEn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -43,9 +43,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   Intake
 
-  The help desk agent opens ticket and obseves the ticket properties.
+  The help desk agent opens ticket and obseves the ticket properties including priority, department, SLA, assigned to, etc.
   
-<img src="https://imgur.com/a/D7GWCBV" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y4Qbbab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -58,17 +58,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   Assignment and Communication
 
-  Contact the user if further understanding of the severity of the issue is neccissary; this is usually done my email, phone, or internal messaging system. then the agen must update the ticket with appropriate ticket properties and choose an assginee.
+  Contact the user if further understanding of the severity of the issue is neccissary; this is usually done my email, phone, or internal messaging system. then the agent must update the ticket with appropriate ticket properties and choose an assginee.
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YaDRsxX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -76,7 +68,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+  Working the issue
+
+  Inform the user of your plan to troubleshoot. This will help to keep complaints to a minimum and keep workflow smooth.
+  
+<img src="https://i.imgur.com/4KCLPkt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -84,7 +83,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+  Resolution
+
+  Once the issue is fixed let the user know and close the ticket.
+  
+<img src="https://i.imgur.com/6GJVJIj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/06SpihM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
